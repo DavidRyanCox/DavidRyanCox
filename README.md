@@ -1,17 +1,15 @@
  <p align='center'>
-<a href="https://twitter.com/DavidCox88"><img height="40" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/twitter.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/david-ryan-cox-080688/"><img height="40" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/linkedin.png?raw=true"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/97774a96-3f86-4035-9750-9161cb6adb06"><img height="40" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/gc-icon.png?raw=true"></a>
 
 ### 👋 Hi!
  
- 
- My name is David Cox and I am currently working as a DevOps Engineer at LBG. I love all things data and have formerly held roles in Data Engineering, Analytics, Data Science and Visulisation.
+  My name is David Cox and I am currently Lead Infrastructure Engineer for Business Intelligence at LBG. I love all things data and have formerly held roles in Data Engineering, Analytics, Data Science and DevOps.
  
  --- 
- ### <img align="center" height="25" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/gc-icon.png?raw=True"> Google Cloud
+ ### 📖 Upskilling
  
- I find cloud technology fascinating, and GCP is currently the focus of my personal development. Join me on my journey as I upskill in Google Cloud. The majority of my Cloud upskilling will be focused around DevOps and Platform engineering, so expect to see concepts such as Containers, Kubernetes and IaC.
+ My current focus in upskilling is on Terraform, Google CLoud, Looker and Microsoft Fabric. I am also looking to expand my knowledge of AI by studying for the Google Cloud Generative AI Leadership exam.
 
 ---
 ### 📜 Certifications
